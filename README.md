@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @momna-shafeeq
 - 👀 I’m interested in Cyber Security, Programming, Machine learning, Python
 - 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me ...
 
 
-<!-- Hi, I'm [Momna Shafeeq](https://www.momnashafeeq.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+<!-- Hi, I'm [Momna Shafeeq](https://www.momnashafeeq.com/), a web and app developer 👨🏻‍💻 from Pakistan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
 
 <br> -->
 
@@ -16,7 +15,7 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [momnashaeeq254@gmail.com](mailto:momnashaeeq254@gmail.com);
+ - 📫 How to reach me: [momnashaeeq5@gmail.com](mailto:momnashaeeq5@gmail.com);
  - 🔗 My website: [https://www.momnashafeeq.com/](https://www.momnashafeeq.com/)
  
  <br>
